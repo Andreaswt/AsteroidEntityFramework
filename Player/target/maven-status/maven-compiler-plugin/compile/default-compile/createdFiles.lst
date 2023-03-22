@@ -1,4 +1,4 @@
-dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.class
+dk/sdu/mmmi/cbse/player/Player.class
 module-info.class
-dk/sdu/mmmi/cbse/playersystem/Player.class
-dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.class
+dk/sdu/mmmi/cbse/player/PlayerControlSystem.class
+dk/sdu/mmmi/cbse/player/PlayerPlugin.class
